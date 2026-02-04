@@ -51,3 +51,8 @@ README.md
 - JWT 認証 / RBAC
 - Docker 化 / GitHub Actions で CI/CD
 - 本番デプロイ（Render / Fly.io → AWS）
+
+### 直近のToDo（今日〜来週）
+- Python仮想環境の作成と依存のインストール（requirements.txt）
+- uvicornでローカル起動して /docs を確認
+- Issueを1件作成して今月のToDoを箇条書き登録
